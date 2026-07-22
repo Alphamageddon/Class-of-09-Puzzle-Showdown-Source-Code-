@@ -1,4 +1,4 @@
-# Class of '09 Puzzle Showdown (Sourcr Code)
+# Class of '09 Puzzle Showdown (Source Code)
 
 SBN3 made the new class of 09 game in unity IN MONO WITH NO OBFUSCATION like a FUCKING IDIOT
 
